@@ -1,13 +1,12 @@
-
-# Olá, eu sou o [Wilson Michael]! 👋
+# Olá, eu sou o Wilson Michael! 👋
 
 Sou um desenvolvedor Full Stack focado em criar soluções eficientes tanto no ecossistema de Front-end quanto no Back-end. Adoro transformar ideias complexas em aplicações limpas e escaláveis.
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente estou trabalhando em [Nome do seu projeto ou empresa]
-- 🌱 Atualmente estou aprofundando meus conhecimentos em [Tecnologia que está estudando, ex: Next.js, Docker, NestJS]
+- 🌱 Atualmente estou aprofundando meus conhecimentos em [Tecnologia que está estudando, ex: Next.js, Docker]
 - 💬 Pergunte-me sobre **Desenvolvimento Web, APIs e Arquitetura de Software**
-- 📫 Como me encontrar: **wilsonmchael@icloud.com]** ou no [LinkedIn](link-do-seu-linkedin)
+- 📫 Como me encontrar: [LinkedIn](link-do-seu-linkedin)
 
 ---
 
@@ -35,6 +34,6 @@ Sou um desenvolvedor Full Stack focado em criar soluções eficientes tanto no e
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://herokuapp.com" alt="GitHub Streak Stats" />
   <img height="180em" src="https://vercel.app" alt="Linguagens mais utilizadas" />
 </p>
