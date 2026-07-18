@@ -35,4 +35,3 @@ Sou um desenvolvedor Full Stack focado em criar soluções eficientes tanto no e
   <img height="180em" src="https://herokuapp.com" alt="GitHub Streak Stats" />
   <img height="180em" src="https://vercel.app" alt="Linguagens mais utilizadas" />
 </p>
-
