@@ -38,13 +38,7 @@ Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
-
----
-
-<p align="center">
-  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i> ✨
-</p>
